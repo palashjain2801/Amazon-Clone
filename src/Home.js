@@ -10,13 +10,13 @@ function Home() {
                 <Product 
                 id="1"
                 title="The Lean Startup" 
-                price={19.9} 
+                price={19} 
                 image="https://m.media-amazon.com/images/I/81-QB7nDh4L._AC_UY218_.jpg" rating={5}/>
                 
                 <Product 
                 id="2"
                 title="Willful Smart Watch for Android Phones and iOS Phones Compatible iPhone Samsung, IP68 Swimming Waterproof Smartwatch Fitness Tracker Fitness Watch Heart Rate Monitor Smart Watches for Men Women Black" 
-                price={35.99} 
+                price={35} 
                 image="https://m.media-amazon.com/images/I/51oAPLRW9DL._AC_UY218_.jpg" 
 		rating={5}/>
 
