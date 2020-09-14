@@ -4,8 +4,7 @@ import { useStateValue } from './StateProvider';
 import CheckoutProduct from './CkeckoutProduct';
 import { Link, useHistory } from 'react-router-dom';
 import { CardElement ,useElements, useStripe } from '@stripe/react-stripe-js';
-import { get
-    BasketTotal } from './reducer';
+import { getBasketTotal } from './reducer';
 import CurrencyFormat from 'react-currency-format';
 import axios from 'axios'
 function Payment() {
