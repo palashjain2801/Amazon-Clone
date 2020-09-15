@@ -6,5 +6,6 @@ This project is Hosted at : [Amazon Clone By Palash Jain ](https://palashjain280
 
 
 # Files and Architecture
-> Front End is Developed using ⚛ React JS and Files of Front end develeopment is available at  ➡ Src Folder 
+> Front End is Developed using ⚛ React JS and Files of Front end develeopment is available at  ➡ Src Folder .
+
 > Backend is Developed using ✨Node JS and FireBase 🔥. Files of backend Development is available at  ➡ Function Folder 
